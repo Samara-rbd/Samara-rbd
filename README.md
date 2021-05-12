@@ -1,3 +1,4 @@
+![E1M356WWUAEGErd (3)](https://user-images.githubusercontent.com/72771371/118017365-e8c3a180-b32c-11eb-8d26-0da8040ea1cf.jpg)
 
 - 👋 Hi, I’m @Samara-rbd
 - 👀 I’m interested in  Desenvolvimento de Sistemas  em geral
