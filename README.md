@@ -1,10 +1,5 @@
-
-- 👋 Hi, I’m @Samara.
-- 👀 I’m interested in  Desenvolvimento de Sistemas  em geral
-- 🌱 I’m currently learning  JavaScript ,  HTML,  CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  maiareismaia@gmail.com
-
+## Olá, tudo bem?
+## Me chamo Samara Maia, programadora Jr!
 <div align="center">
   <a href="https://github.com/Samara-rbd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samara-rbd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
