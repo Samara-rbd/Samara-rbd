@@ -12,8 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="![sam](https://user-images.githubusercontent.com/72771371/147478789-3876b55f-f0f8-41e3-9d99-82c1a266853a.gif)
-">
+  <img align="right" alt="Samara" height="150" style="border-radius:50px;" src="file:///C:/Users/samara/Pictures/sam%201.svg">
 </div>
   
   ##
