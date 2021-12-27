@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="https://instagram.fbel16-1.fna.fbcdn.net/v/t51.2885-19/s150x150/260838867_2881578552133171_3101204870140421169_n.jpg?_nc_ht=instagram.fbel16-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=_corM-ZB0_kAX8bfY9l&edm=ALbqBD0BAAAA&ccb=7-4&oh=ce4b30126e5b76cabca9f85d5723e377&oe=61AAD04D&_nc_sid=9a90d6">
+  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
