@@ -1,9 +1,9 @@
 ## Olá, tudo bem?
 ## Me chamo Samara Maia, programadora Jr!
 <div align="center">
-  <a href="https://github.com/Samara-rbd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samara-rbd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-rbd&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/samara-maia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samara-maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samara-maia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   <div style="display: inline_block"><br>
